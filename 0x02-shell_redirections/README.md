@@ -1,1 +1,1 @@
-My favorite README.md
+My favorite README
